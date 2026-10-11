@@ -1,0 +1,219 @@
+{
+  "king": "👑",
+  "queen": "👸",
+  "prince": "🤴",
+  "princess": "👸",
+  "crown": "👑",
+  "castle": "🏰",
+  "tower": {
+    "emoji": "🗼",
+    "confianza": 0.8
+  },
+  "city": "🏙️",
+  "village": {
+    "emoji": "🏘️",
+    "confianza": 0.5
+  },
+  "town": {
+    "emoji": "🏘️",
+    "confianza": 0.9
+  },
+  "house": "🏠",
+  "church": "⛪",
+  "school": "🏫",
+  "hospital": "🏥",
+  "bridge": "🌉",
+  "road": {
+    "emoji": "🛤️",
+    "confianza": 0.8
+  },
+  "door": "🚪",
+  "window": "🪟",
+  "bed": "🛏️",
+  "chair": "🪑",
+  "bank": {
+    "emoji": "🏦",
+    "confianza": 0.5
+  },
+  "clock": "🕰️",
+  "lamp": {
+    "emoji": "🪔",
+    "confianza": 0.9
+  },
+  "lantern": "🏮",
+  "key": {
+    "emoji": "🔑",
+    "confianza": 0.8
+  },
+  "box": "📦",
+  "book": "📖",
+  "letter": {
+    "emoji": "✉️",
+    "confianza": 0.6
+  },
+  "drawing": {
+    "emoji": "🖼️",
+    "confianza": 0.9
+  },
+  "gift": "🎁",
+  "money": "💰",
+  "coin": "🪙",
+  "sword": "🗡️",
+  "phone": "📞",
+  "airplane": "✈️",
+  "ship": "🚢",
+  "car": "🚗",
+  "train": "🚆",
+  "bicycle": "🚲",
+  "sun": "☀️",
+  "moon": "🌙",
+  "star": "⭐",
+  "planet": "🪐",
+  "world": "🌍",
+  "earth": {
+    "emoji": "🌍",
+    "confianza": 0.5
+  },
+  "sky": {
+    "emoji": "🌌",
+    "confianza": 0.8
+  },
+  "cloud": "☁️",
+  "rain": "🌧️",
+  "snow": "❄️",
+  "wind": "🌬️",
+  "fire": "🔥",
+  "water": "💧",
+  "sea": "🌊",
+  "ocean": "🌊",
+  "river": "🏞️",
+  "mountain": "⛰️",
+  "volcano": "🌋",
+  "island": "🏝️",
+  "desert": "🏜️",
+  "forest": "🌲",
+  "tree": "🌳",
+  "baobab": {
+    "emoji": "🌳",
+    "confianza": 0.9
+  },
+  "flower": "🌸",
+  "rose": {
+    "emoji": "🌹",
+    "confianza": 0.8
+  },
+  "garden": {
+    "emoji": "🌷",
+    "confianza": 0.8
+  },
+  "plant": {
+    "emoji": "🌱",
+    "confianza": 0.5
+  },
+  "leaf": {
+    "emoji": "🍃",
+    "confianza": 0.6
+  },
+  "stone": "🪨",
+  "night": "🌃",
+  "dog": "🐕",
+  "cat": "🐈",
+  "horse": "🐎",
+  "cow": "🐄",
+  "sheep": "🐑",
+  "lamb": "🐑",
+  "bird": "🐦",
+  "fish": "🐟",
+  "snake": "🐍",
+  "fox": "🦊",
+  "lion": "🦁",
+  "tiger": "🐅",
+  "elephant": "🐘",
+  "mouse": {
+    "emoji": "🐭",
+    "confianza": 0.8
+  },
+  "monkey": "🐒",
+  "rabbit": "🐇",
+  "wolf": "🐺",
+  "bear": "🐻",
+  "hen": "🐔",
+  "bee": "🐝",
+  "butterfly": "🦋",
+  "frog": "🐸",
+  "turtle": "🐢",
+  "man": "👨",
+  "woman": "👩",
+  "child": "🧒",
+  "girl": "👧",
+  "baby": "👶",
+  "family": "👪",
+  "doctor": "🧑‍⚕️",
+  "soldier": "💂",
+  "police": {
+    "emoji": "👮",
+    "confianza": 0.8
+  },
+  "farmer": "🧑‍🌾",
+  "pilot": "🧑‍✈️",
+  "bread": "🍞",
+  "apple": "🍎",
+  "milk": "🥛",
+  "wine": "🍷",
+  "coffee": "☕",
+  "cheese": "🧀",
+  "egg": "🥚",
+  "food": "🍽️",
+  "party": {
+    "emoji": "🎉",
+    "confianza": 0.8
+  },
+  "music": "🎵",
+  "hat": "🎩",
+  "shoe": "👞",
+  "dress": "👗",
+  "heart": "❤️",
+  "eye": "👁️",
+  "hand": "✋",
+  "foot": {
+    "emoji": "🦶",
+    "confianza": 0.8
+  },
+  "mouth": "👄",
+  "ear": "👂",
+  "nose": "👃",
+  "tooth": "🦷",
+  "love": "❤️",
+  "sadness": "😔",
+  "joy": "😄",
+  "fear": "😨",
+  "idea": "💡",
+  "question": "❓",
+  "dream": {
+    "emoji": "💭",
+    "confianza": 0.6
+  },
+  "death": {
+    "emoji": "💀",
+    "confianza": 0.9
+  },
+  "time": {
+    "emoji": "⏳",
+    "confianza": 0.5
+  },
+  "boy": "👦",
+  "happiness": "😄",
+  "plane": {
+    "emoji": "✈️",
+    "confianza": 0.6
+  },
+  "boat": "⛵",
+  "rock": {
+    "emoji": "🪨",
+    "confianza": 0.7
+  },
+  "chicken": {
+    "emoji": "🐔",
+    "confianza": 0.8
+  }
+}
