@@ -3,3 +3,5 @@ output
 __pycache__
 original/*.txt
 output/*.txt
+*.egg-info
+.pytest_cache
